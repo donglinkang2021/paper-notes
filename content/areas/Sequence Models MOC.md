@@ -1,0 +1,37 @@
+---
+tags:
+  - MOC
+  - knowledge-moc
+time: 2026-03-05T14:30
+author: Linkdom
+---
+
+# Sequence Models MOC
+
+涵盖 RNN、LSTM、Transformer、注意力机制等序列建模的经典与前沿工作。
+
+## RNN & LSTM 基础
+
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](../knowledge/summary_rnn_effectiveness.md) — 通过生动实验展示 RNN 在字符级序列建模上的强大能力
+- [Understanding LSTM Networks](../knowledge/summary_understanding_lstm.md) — 以清晰图解直观解释 LSTM 门控机制的经典教程
+- [Recurrent Neural Network Regularization](../knowledge/summary_rnn_dropout_regularization.md) — 只在非循环连接上应用 Dropout 来正则化 LSTM
+
+## 注意力机制
+
+- [Neural Machine Translation by Jointly Learning to Align and Translate](../knowledge/summary_attention_nmt.md) — 提出注意力机制让解码器自适应关注源句子不同部分
+- [Pointer Networks](../knowledge/summary_pointer_networks.md) — 将注意力输出直接作为指针指向输入序列元素
+
+## 记忆增强与推理
+
+- [Neural Turing Machines](../knowledge/summary_neural_turing_machines.md) — 将神经网络与外部存储器耦合，通过可微注意力实现读写
+- [Order Matters: Sequence to Sequence for Sets](../knowledge/summary_order_matters_seq2seq_sets.md) — 揭示顺序对 seq2seq 性能的影响，提出 Read-Process-Write 架构
+- [Relational Recurrent Neural Networks](../knowledge/summary_relational_memory_core.md) — 用多头注意力实现记忆槽间的显式交互
+
+## 预训练语言模型
+
+- [XLNet: Generalized Autoregressive Pretraining](../knowledge/summary_xlnet.md) — 通过排列语言建模同时获得自回归和自编码预训练的优点
+
+## Related MOCs
+
+- [Neural Memory & Reasoning MOC](<./Neural Memory & Reasoning MOC.md>)
+- [Information Theory & Complexity MOC](<./Information Theory & Complexity MOC.md>)
