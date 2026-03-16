@@ -1,3 +1,11 @@
+---
+title: "Keeping Neural Networks Simple by Minimizing the Description Length of the Weights"
+authors: "Geoffrey E. Hinton, Drew van Camp"
+institution: "University of Toronto, Department of Computer Science"
+venue: "COLT 1993"
+arxiv_id: "N/A"
+tags: ["paper", "MDL", "权重正则化", "噪声权重", "变分推断", "贝叶斯神经网络"]
+---
 # Keeping Neural Networks Simple by Minimizing the Description Length of the Weights
 
 **作者:** Geoffrey E. Hinton, Drew van Camp  

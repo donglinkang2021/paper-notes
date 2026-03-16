@@ -1,3 +1,11 @@
+---
+title: "A Tutorial Introduction to the Minimum Description Length Principle"
+authors: "Peter Grünwald (CWI, Amsterdam)"
+institution: "Unknown"
+venue: "Unknown"
+arxiv_id: "N/A"
+tags: ["paper"]
+---
 # A Tutorial Introduction to the Minimum Description Length Principle
 
 **论文**: A Tutorial Introduction to the Minimum Description Length Principle

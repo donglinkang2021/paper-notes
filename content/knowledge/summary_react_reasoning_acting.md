@@ -1,3 +1,11 @@
+---
+title: "ReAct: Synergizing Reasoning and Acting in Language Models"
+authors: "Shunyu Yao (Princeton), Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao (Google Brain)"
+institution: "Unknown"
+venue: "ICLR 2023"
+arxiv_id: "2210.03629"
+tags: ["paper"]
+---
 # ReAct: Synergizing Reasoning and Acting in Language Models
 
 **论文信息**

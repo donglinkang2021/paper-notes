@@ -2,7 +2,7 @@
 tags:
   - MOC
   - knowledge-moc
-time: 2026-03-05T14:30
+time: 2026-03-15T03:40:13+00:00
 author: Linkdom
 ---
 
@@ -19,6 +19,7 @@ author: Linkdom
 - [Scaling Laws of Synthetic Data](../knowledge/summary_scaling_laws_synthetic_data.md) — 合成数据遵循修正缩放定律，300B tokens后性能增益递减
 - [Breaking the Curse of Recursion](../knowledge/summary_breaking_curse_recursion.md) — 累积真实和合成数据可避免模型坍塌，测试误差有有限上界
 - [How to Synthesize without Model Collapse?](../knowledge/summary_synthesize_without_collapse.md) — Token级编辑方法通过保持分布覆盖避免模型坍塌
+- [Superposition Yields Robust Neural Scaling](../knowledge/summary_superposition_yields_robust_neural_scaling.md) — 强 superposition 下表示重叠的几何干扰给出稳健 $L\propto 1/m$（与真实 LLM head 统计一致）
 
 ## 合成数据与知识获取效率
 
@@ -31,3 +32,4 @@ author: Linkdom
 ## Related MOCs
 
 - [Data Synthesis & Curation MOC](<./Data Synthesis & Curation MOC.md>)
+- [Information Theory & Complexity MOC](<./Information Theory & Complexity MOC.md>)

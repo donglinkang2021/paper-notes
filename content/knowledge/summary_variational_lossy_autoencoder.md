@@ -1,3 +1,11 @@
+---
+title: "Variational Lossy Autoencoder (VLAE)"
+authors: "Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel"
+institution: "UC Berkeley, OpenAI"
+venue: "ICLR 2017"
+arxiv_id: "1611.02731"
+tags: ["paper", "VAE", "自回归模型", "PixelCNN", "表示学习", "有损压缩"]
+---
 # Variational Lossy Autoencoder (VLAE)
 
 **作者:** Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel  

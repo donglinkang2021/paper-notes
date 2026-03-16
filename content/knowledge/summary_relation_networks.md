@@ -1,3 +1,11 @@
+---
+title: "A Simple Neural Network Module for Relational Reasoning"
+authors: "Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap (DeepMind)"
+institution: "Unknown"
+venue: "arXiv 2017"
+arxiv_id: "1706.01427"
+tags: ["paper"]
+---
 # A Simple Neural Network Module for Relational Reasoning
 
 **论文**: A simple neural network module for relational reasoning

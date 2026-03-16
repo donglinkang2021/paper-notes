@@ -4,7 +4,7 @@ authors: "Loubna Ben Allal*, Anton Lozhkov*, Elie Bakouch*, Gabriel Martín Blá
 institution: "HuggingFace"
 venue: "arXiv 2025"
 arxiv_id: "2502.02737"
-tags: [小语言模型, 数据策展, 多阶段预训练, 指令微调, 数学推理, 代码生成, 开源]
+tags: ["小语言模型", "数据策展", "多阶段预训练", "指令微调", "数学推理", "代码生成", "开源"]
 ---
 
 # SmolLM2：当"小"变得强大——以数据为中心的小型语言模型训练

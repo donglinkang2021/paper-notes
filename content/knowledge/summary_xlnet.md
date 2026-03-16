@@ -1,3 +1,11 @@
+---
+title: "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+authors: "Zhilin Yang*, Zihang Dai*, Yiming Yang, Jaime Carbonell (Carnegie Mellon University), Ruslan Salakhutdinov (Carnegie Mellon University), Quoc V. Le (Google AI Brain)"
+institution: "Unknown"
+venue: "arXiv 2019"
+arxiv_id: "1906.08237"
+tags: ["paper"]
+---
 # XLNet: Generalized Autoregressive Pretraining for Language Understanding
 
 **论文**: XLNet: Generalized Autoregressive Pretraining for Language Understanding

@@ -1,3 +1,11 @@
+---
+title: "Understanding LSTM Networks"
+authors: "Christopher Olah (Google Brain, 后加入 Anthropic)"
+institution: "Unknown"
+venue: "Blog 2015"
+arxiv_id: "N/A"
+tags: ["blog"]
+---
 # Understanding LSTM Networks
 
 **博客信息**

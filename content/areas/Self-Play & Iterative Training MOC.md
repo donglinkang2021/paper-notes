@@ -2,7 +2,7 @@
 tags:
   - MOC
   - knowledge-moc
-time: 2026-03-05T14:30
+time: 2026-03-15T03:40:13+00:00
 author: Linkdom
 ---
 
@@ -29,6 +29,8 @@ author: Linkdom
 - [Genius: Unsupervised Reasoning](../knowledge/summary_genius_unsupervised_reasoning.md) — 完全无监督的推理自训练框架，通过逐步前瞻重采样和优势校准优化实现零监督推理提升
 - [STaR-GATE: Clarifying Questions](../knowledge/summary_star_gate_clarifying_questions.md) — 将 STaR 扩展到对话场景，通过自博弈教会模型主动提出澄清性问题以激发用户偏好
 - [Beyond Pass@1: Variational Problem Synthesis](../knowledge/summary_variational_problem_synthesis.md) — 通过变分问题合成的在线自博弈维持 RLVR 训练熵，解决熵坍塌问题并显著提升 Pass@k 性能
+- [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](../knowledge/summary_retaining_by_doing_on_policy_data.md) — 从“数据是否 on-policy”解释 RL 更不易遗忘，并提示 Iterative-SFT/每轮刷新数据可作为闭环自训练的稳定化手段
+- [RL's Razor: Why Online Reinforcement Learning Forgets Less](../knowledge/summary_rls_razor_forgets_less.md) — 把 on-policy RL 的“保守性”形式化为 KL-minimal 偏置，并用新任务分布上的 forward KL 作为遗忘风险的领先指标
 
 ## Related MOCs
 

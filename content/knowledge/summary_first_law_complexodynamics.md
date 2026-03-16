@@ -1,3 +1,11 @@
+---
+title: "The First Law of Complexodynamics"
+authors: "Scott Aaronson (MIT → UT Austin)"
+institution: "Unknown"
+venue: "Blog 2011"
+arxiv_id: "N/A"
+tags: ["blog"]
+---
 # The First Law of Complexodynamics
 
 **博客信息**

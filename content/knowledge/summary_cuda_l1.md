@@ -4,7 +4,7 @@ authors: "Xiaoya Li, Xiaofei Sun, Albert Wang, Jiwei Li, Chris Shum"
 institution: "DeepReinforce Team"
 venue: "ICLR 2026"
 arxiv_id: "2507.14111"
-tags: [CUDA, GPU优化, 强化学习, 对比学习, 代码生成, LLM, KernelBench]
+tags: ["CUDA", "GPU优化", "强化学习", "对比学习", "代码生成", "LLM", "KernelBench"]
 ---
 
 # CUDA-L1: 通过对比强化学习改进CUDA优化

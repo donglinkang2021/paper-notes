@@ -1,3 +1,11 @@
+---
+title: "The Unreasonable Effectiveness of Recurrent Neural Networks"
+authors: "Andrej Karpathy (当时在 Stanford，后来是 Tesla AI 总监、OpenAI 研究员)"
+institution: "Unknown"
+venue: "Blog 2015"
+arxiv_id: "N/A"
+tags: ["blog"]
+---
 # The Unreasonable Effectiveness of Recurrent Neural Networks
 
 **博客信息**

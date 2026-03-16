@@ -1,3 +1,11 @@
+---
+title: "On-Policy Distillation"
+authors: "Kevin Lu et al."
+institution: "Unknown"
+venue: "Blog 2025"
+arxiv_id: "N/A"
+tags: ["blog"]
+---
 # On-Policy Distillation
 
 **博客信息**

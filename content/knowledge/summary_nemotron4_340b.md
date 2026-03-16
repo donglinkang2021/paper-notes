@@ -4,7 +4,7 @@ authors: "Jupinder Parmar, Shrimai Prabhumoye, Joseph Jennings, Deepak Narayanan
 institution: "Nvidia"
 venue: "arXiv 2024"
 arxiv_id: "2406.11704"
-tags: [LLM, alignment, synthetic-data, reward-model, RLHF, DPO, weak-to-strong, 340B]
+tags: ["LLM", "alignment", "synthetic-data", "reward-model", "RLHF", "DPO", "weak-to-strong", "340B"]
 ---
 
 # Nemotron-4 340B: 基于合成数据与迭代弱到强对齐的大规模语言模型

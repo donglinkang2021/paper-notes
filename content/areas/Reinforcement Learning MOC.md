@@ -2,7 +2,7 @@
 tags:
   - MOC
   - knowledge-moc
-time: 2026-03-05T14:30
+time: 2026-03-15T03:40:13+00:00
 author: Linkdom
 ---
 
@@ -20,6 +20,8 @@ author: Linkdom
 - [Learning Adaptive Parallel Reasoning](../knowledge/summary_adaptive_parallel_reasoning.md) — 借鉴多线程机制让模型自适应编排串行与并行推理，通过 GRPO 端到端优化并行策略
 - [The Surprising Effectiveness of Negative Reinforcement](../knowledge/summary_negative_reinforcement_reasoning.md) — 将 RLVR 分解为正负样本强化，发现仅惩罚错误回答即可有效提升推理并保持多样性
 - [CUDA-L1: Improving CUDA Optimization via Contrastive RL](../knowledge/summary_cuda_l1.md) — 通过对比强化学习训练 LLM 自动优化 CUDA 内核，在 KernelBench 上实现平均 3.12 倍加速
+- [RL's Razor: Why Online Reinforcement Learning Forgets Less](../knowledge/summary_rls_razor_forgets_less.md) — 提出用新任务分布上的 forward KL 预测遗忘，并解释 on-policy RL 为何更“保守”从而更不易遗忘
+- [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](../knowledge/summary_retaining_by_doing_on_policy_data.md) — 通过消融论证“on-policy 数据”是 RL 抗遗忘主因，并提出 Iterative-SFT 等近似 on-policy 的省算力替代
 
 ## Related MOCs
 

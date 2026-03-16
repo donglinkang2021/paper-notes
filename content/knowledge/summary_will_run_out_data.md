@@ -4,7 +4,7 @@ authors: "Pablo Villalobos, Anson Ho, Jaime Sevilla, Tamay Besiroglu, Lennart He
 institution: "Epoch, University of Aberdeen, MIT CSAIL, Centre for the Governance of AI, University of Tübingen"
 venue: "ICML 2024"
 arxiv_id: "2211.04325"
-tags: [LLM, scaling-laws, data-constraints, synthetic-data, transfer-learning]
+tags: ["LLM", "scaling-laws", "data-constraints", "synthetic-data", "transfer-learning"]
 ---
 
 # 我们会耗尽数据吗？基于人类生成数据的大语言模型扩展极限

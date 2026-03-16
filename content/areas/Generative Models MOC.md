@@ -18,3 +18,4 @@ author: Linkdom
 ## Related MOCs
 
 - [Information Theory & Complexity MOC](<./Information Theory & Complexity MOC.md>)
+- [Scaling Laws MOC](<./Scaling Laws MOC.md>)

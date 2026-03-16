@@ -4,7 +4,7 @@ authors: "Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendra
 institution: "University of Washington, Allen Institute for AI"
 venue: "ICLR 2025"
 arxiv_id: "2406.08464"
-tags: [alignment, data-synthesis, instruction-tuning, LLM, self-synthesis, SFT, DPO]
+tags: ["alignment", "data-synthesis", "instruction-tuning", "LLM", "self-synthesis", "SFT", "DPO"]
 ---
 
 # Magpie：通过"无提示"提示对齐LLM从零合成对齐数据

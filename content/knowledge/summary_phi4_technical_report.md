@@ -4,7 +4,7 @@ authors: "Marah Abdin, Jyoti Aneja, Harkirat Behl, Sebastien Bubeck, Ronen Eldan
 institution: "Microsoft Research"
 venue: "arXiv 2024"
 arxiv_id: "2412.08905"
-tags: [synthetic data, small language model, data quality, DPO, pivotal token search, reasoning, post-training]
+tags: ["synthetic data", "small language model", "data quality", "DPO", "pivotal token search", "reasoning", "post-training"]
 ---
 
 # Phi-4 技术报告

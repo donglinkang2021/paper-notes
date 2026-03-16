@@ -1,3 +1,11 @@
+---
+title: "Self-Distillation Enables Continual Learning (SDFT)"
+authors: "Idan Shenfeld, Mehul Damani, Jonas Hübotter, Pulkit Agrawal"
+institution: "MIT, Improbable AI Lab, ETH Zurich"
+venue: "ICLR"
+arxiv_id: "2601.19897"
+tags: ["paper"]
+---
 # Self-Distillation Enables Continual Learning (SDFT)
 
 **Paper ID:** arXiv 2601.19897

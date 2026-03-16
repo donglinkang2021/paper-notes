@@ -4,7 +4,7 @@ authors: "Marah Abdin, Jyoti Aneja, Hany Awadalla, Ahmed Awadallah, Ammar Ahmad 
 institution: "Microsoft Research"
 venue: "arXiv 2024"
 arxiv_id: "2404.14219"
-tags: [small language model, data quality, phi-3, on-device inference, MoE, multimodal, long context, synthetic data]
+tags: ["small language model", "data quality", "phi-3", "on-device inference", "MoE", "multimodal", "long context", "synthetic data"]
 ---
 
 # Phi-3 技术报告：可在手机上本地运行的高性能语言模型

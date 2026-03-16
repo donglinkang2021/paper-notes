@@ -1,3 +1,11 @@
+---
+title: "Order Matters: Sequence to Sequence for Sets"
+authors: "Oriol Vinyals, Samy Bengio, Manjunath Kudlur (Google Brain)"
+institution: "Unknown"
+venue: "arXiv 2015"
+arxiv_id: "1511.06391"
+tags: ["paper"]
+---
 # Order Matters: Sequence to Sequence for Sets
 
 **论文**: Order Matters: Sequence to sequence for sets

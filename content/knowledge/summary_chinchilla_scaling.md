@@ -1,3 +1,11 @@
+---
+title: "Training Compute-Optimal Large Language Models (Chinchilla)"
+authors: "Jordan Hoffmann*, Sebastian Borgeaud*, Arthur Mensch*, 等 (DeepMind)"
+institution: "Unknown"
+venue: "arXiv 2022"
+arxiv_id: "2203.15556"
+tags: ["paper"]
+---
 # Training Compute-Optimal Large Language Models (Chinchilla)
 
 **论文**: Training Compute-Optimal Large Language Models

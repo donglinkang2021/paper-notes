@@ -1,3 +1,11 @@
+---
+title: "Relational Recurrent Neural Networks"
+authors: "Adam Santoro*, Ryan Faulkner*, David Raposo*, Jack Rae, Mike Chrzanowski, Théophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap (DeepMind)"
+institution: "Unknown"
+venue: "arXiv 2018"
+arxiv_id: "1806.01822"
+tags: ["paper"]
+---
 # Relational Recurrent Neural Networks
 
 **论文**: Relational recurrent neural networks

@@ -4,7 +4,7 @@ authors: "Yuanzhi Li, Sebastien Bubeck, Ronen Eldan, Allie Del Giorno, Suriya Gu
 institution: "Microsoft Research"
 venue: "arXiv 2023"
 arxiv_id: "2309.05463"
-tags: [small language model, synthetic data, common sense reasoning, textbook quality data, phi-1.5, data quality]
+tags: ["small language model", "synthetic data", "common sense reasoning", "textbook quality data", "phi-1.5", "data quality"]
 ---
 
 # Textbooks Are All You Need II: phi-1.5 技术报告

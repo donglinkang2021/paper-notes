@@ -1,3 +1,11 @@
+---
+title: "Recurrent Neural Network Regularization"
+authors: "Wojciech Zaremba (NYU), Ilya Sutskever, Oriol Vinyals (Google Brain)"
+institution: "Unknown"
+venue: "ICLR 2015"
+arxiv_id: "1409.2329"
+tags: ["paper"]
+---
 # Recurrent Neural Network Regularization
 
 **论文信息**

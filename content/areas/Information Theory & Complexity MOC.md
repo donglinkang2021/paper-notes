@@ -2,7 +2,7 @@
 tags:
   - MOC
   - knowledge-moc
-time: 2026-03-05T14:30
+time: 2026-03-15T03:40:13+00:00
 author: Linkdom
 ---
 
@@ -27,3 +27,4 @@ author: Linkdom
 ## Related MOCs
 
 - [Generative Models MOC](<./Generative Models MOC.md>)
+- [Scaling Laws MOC](<./Scaling Laws MOC.md>)

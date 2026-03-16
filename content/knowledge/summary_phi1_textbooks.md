@@ -4,7 +4,7 @@ authors: "Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, A
 institution: "Microsoft Research"
 venue: "arXiv 2023"
 arxiv_id: "2306.11644"
-tags: [code-generation, data-quality, synthetic-data, scaling-laws, small-models, phi-1]
+tags: ["code-generation", "data-quality", "synthetic-data", "scaling-laws", "small-models", "phi-1"]
 ---
 
 # "教科书就是你所需要的一切"——用高质量数据打破缩放定律

@@ -4,7 +4,7 @@ authors: "Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Ch
 institution: "Microsoft, Peking University"
 venue: "ICLR 2024"
 arxiv_id: "2304.12244"
-tags: [instruction-tuning, synthetic-data, evol-instruct, LLM, data-augmentation, instruction-following]
+tags: ["instruction-tuning", "synthetic-data", "evol-instruct", "LLM", "data-augmentation", "instruction-following"]
 ---
 
 # WizardLM：通过进化指令赋能大型预训练语言模型遵循复杂指令

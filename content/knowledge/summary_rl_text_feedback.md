@@ -1,3 +1,11 @@
+---
+title: "RL from Text Feedback (RLTF)"
+authors: "{Yuda Song"
+institution: "Unknown"
+venue: "ICML"
+arxiv_id: "2602.02482"
+tags: ["paper"]
+---
 # RL from Text Feedback (RLTF)
 
 **论文标题:** Beyond Scalar Rewards: Learning from Text Feedback in LLM Post-Training

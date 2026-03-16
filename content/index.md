@@ -21,20 +21,21 @@ A collection of paper summaries, research area maps, and cross-paper insights.
 
 ## Insights
 
-- [Beyond Serial Chain of Thought](./insights/beyond_serial_chain_of_thought.md)
-- [Data Dependency Spectrum](./insights/data_dependency_spectrum.md)
-- [Data Quality over Quantity](./insights/data_quality_over_quantity.md)
-- [Diversity and Convergence Challenges](./insights/diversity_and_convergence_challenges.md)
-- [Entropy Collapse and Self-Poisoning](./insights/entropy_collapse_and_self_poisoning.md)
-- [Environment as Teacher](./insights/environment_as_teacher.md)
-- [Model Collapse Mechanisms and Solutions](./insights/model_collapse_mechanisms_and_solutions.md)
-- [Problem Synthesis Approaches](./insights/problem_synthesis_approaches.md)
-- [Question Generation as Capability](./insights/question_generation_as_capability.md)
-- [Self Evaluation and Critique](./insights/self_evaluation_and_critique.md)
-- [Self-Play Evolution Trajectory](./insights/self_play_evolution_trajectory.md)
-- [Student Surpasses Teacher](./insights/student_surpasses_teacher.md)
-- [Synthetic Data Generation Methods](./insights/synthetic_data_generation_methods.md)
-- [Synthetic Data Scaling Laws](./insights/synthetic_data_scaling_laws.md)
+- [超越串行思维链：推理计算的多维扩展](./insights/beyond_serial_chain_of_thought.md)
+- [数据依赖光谱：从完全零数据到最小监督的精细刻度](./insights/data_dependency_spectrum.md)
+- [数据质量胜过数据数量：从 Phi 系列到小模型训练的核心范式](./insights/data_quality_over_quantity.md)
+- [多样性与收敛的永恒张力：从被动防御到主动引导](./insights/diversity_and_convergence_challenges.md)
+- [熵坍塌与自我中毒：模型坍塌的机制与解决方案](./insights/entropy_collapse_and_self_poisoning.md)
+- [环境即教师：从纯自博弈到环境驱动的发现](./insights/environment_as_teacher.md)
+- [模型坍塌的机制与解决方案：从递归诅咒到分布保持](./insights/model_collapse_mechanisms_and_solutions.md)
+- [On-policy 数据、forward KL 与"少遗忘"的机制统一](./insights/on_policy_forward_kl_retention.md)
+- [问题合成的四种范式：从非对称博弈到变分生成](./insights/problem_synthesis_approaches.md)
+- [提问能力作为可学习的元认知技能](./insights/question_generation_as_capability.md)
+- [从外部反馈到自我奖励：评估能力的三次跃迁](./insights/self_evaluation_and_critique.md)
+- [Self-Play 演化轨迹：从自举到环境驱动的自主学习](./insights/self_play_evolution_trajectory.md)
+- [学生超越教师：合成数据训练中的能力跃迁现象](./insights/student_surpasses_teacher.md)
+- [合成数据生成方法论的谱系：从教科书到智能体轨迹](./insights/synthetic_data_generation_methods.md)
+- [合成数据缩放定律与数据耗尽时间线](./insights/synthetic_data_scaling_laws.md)
 
 ## Paper Summaries
 

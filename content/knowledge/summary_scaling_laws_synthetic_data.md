@@ -4,7 +4,7 @@ authors: "Zeyu Qin, Qingxiu Dong, Xingxing Zhang, Li Dong, Xiaolong Huang, Ziyi 
 institution: "Microsoft, HKUST, Peking University, Penn State University"
 venue: "COLM 2025"
 arxiv_id: "2503.19551"
-tags: [synthetic-data, scaling-laws, language-models, math-reasoning, data-generation]
+tags: ["synthetic-data", "scaling-laws", "language-models", "math-reasoning", "data-generation"]
 ---
 
 # 合成数据在语言模型中的缩放定律

@@ -1,3 +1,11 @@
+---
+title: "Neural Turing Machines"
+authors: "Alex Graves, Greg Wayne, Ivo Danihelka (Google DeepMind)"
+institution: "Unknown"
+venue: "arXiv 2014"
+arxiv_id: "1410.5401"
+tags: ["paper"]
+---
 # Neural Turing Machines
 
 **论文**: Neural Turing Machines

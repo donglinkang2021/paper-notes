@@ -1,3 +1,11 @@
+---
+title: "Modular Manifolds"
+authors: "Jeremy Bernstein"
+institution: "Unknown"
+venue: "Blog 2025"
+arxiv_id: "N/A"
+tags: ["blog"]
+---
 # Modular Manifolds
 
 **博客信息**

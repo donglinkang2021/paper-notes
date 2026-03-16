@@ -1,3 +1,11 @@
+---
+title: "Neural Machine Translation by Jointly Learning to Align and Translate"
+authors: "Dzmitry Bahdanau (Jacobs University), Kyunghyun Cho, Yoshua Bengio (Université de Montréal)"
+institution: "Unknown"
+venue: "arXiv 2014"
+arxiv_id: "1409.0473"
+tags: ["paper"]
+---
 # Neural Machine Translation by Jointly Learning to Align and Translate
 
 **论文**: Neural Machine Translation by Jointly Learning to Align and Translate

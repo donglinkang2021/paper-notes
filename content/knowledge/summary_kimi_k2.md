@@ -4,7 +4,7 @@ authors: "Kimi Team (Moonshot AI)"
 institution: "Moonshot AI"
 venue: "arXiv 2025"
 arxiv_id: "2507.20534"
-tags: [MoE, agentic-intelligence, tool-use, reinforcement-learning, MuonClip, data-synthesis, open-source]
+tags: ["MoE", "agentic-intelligence", "tool-use", "reinforcement-learning", "MuonClip", "data-synthesis", "open-source"]
 ---
 
 # Kimi K2：开放智能体智能

@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning via Self-Distillation (SDPO)"
+authors: "Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause"
+institution: "ETH Zurich, Max Planck Institute, MIT, Stanford"
+venue: "arXiv 2026"
+arxiv_id: "2601.20802"
+tags: ["paper"]
+---
 # Reinforcement Learning via Self-Distillation (SDPO)
 
 **Paper ID:** arXiv 2601.20802

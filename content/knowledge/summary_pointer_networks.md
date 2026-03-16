@@ -1,3 +1,11 @@
+---
+title: "Pointer Networks"
+authors: "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly (Google Brain, UC Berkeley)"
+institution: "Unknown"
+venue: "arXiv 2015"
+arxiv_id: "1506.03134"
+tags: ["paper"]
+---
 # Pointer Networks
 
 **论文**: Pointer Networks

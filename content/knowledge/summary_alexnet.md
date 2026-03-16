@@ -1,3 +1,11 @@
+---
+title: "ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)"
+authors: "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton"
+institution: "University of Toronto"
+venue: "NeurIPS 2012"
+arxiv_id: "N/A"
+tags: ["paper", "CNN", "图像分类", "ImageNet", "GPU训练", "ReLU", "Dropout", "深度学习"]
+---
 # ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)
 
 **作者:** Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton  

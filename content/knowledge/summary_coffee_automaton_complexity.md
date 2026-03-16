@@ -1,3 +1,11 @@
+---
+title: "Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton"
+authors: "Scott Aaronson (MIT), Sean M. Carroll (Caltech), Lauren Ouellette (MIT)"
+institution: "Unknown"
+venue: "arXiv 2014"
+arxiv_id: "1405.6903"
+tags: ["paper"]
+---
 # Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton
 
 **论文**: Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton

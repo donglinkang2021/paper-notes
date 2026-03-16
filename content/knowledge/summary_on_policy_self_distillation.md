@@ -1,3 +1,11 @@
+---
+title: "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models"
+authors: "Siyan Zhao (UCLA), Zhihui Xie (HKU), Mengchen Liu, Jing Huang, Guan Pang, Feiyu Chen (Meta Superintelligence Labs), Aditya Grover (UCLA)"
+institution: "Unknown"
+venue: "ICML 2026 Submission"
+arxiv_id: "2601.18734"
+tags: ["paper"]
+---
 # Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models
 
 **Paper ID:** arXiv 2601.18734
