@@ -19,6 +19,12 @@ author: Linkdom
 - [A Simple Neural Network Module for Relational Reasoning](../knowledge/summary_relation_networks.md) — 对所有对象对计算关系函数实现端到端关系推理
 - [Relational Recurrent Neural Networks](../knowledge/summary_relational_memory_core.md) — 多头注意力实现记忆槽间显式交互
 
+## 状态更新与层间记忆
+
+- [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](../knowledge/summary_parallelizing_deltanet.md) — 将 delta rule 记忆更新并行化到序列维，显著提升线性 Transformer 的 associative recall 与语言建模能力
+- [Deep Delta Learning](../knowledge/summary_deep_delta_learning.md) — 把残差连接重写成沿特定方向的 read-erase-write 过程，让 hidden state 在深度上具备可控记忆更新
+- [Attention Residuals](../knowledge/summary_attention_residuals.md) — 将历史层输出视为可检索 memory source，在深度维做选择性聚合以缓解 PreNorm dilution
+
 ## Related MOCs
 
 - [Sequence Models MOC](<./Sequence Models MOC.md>)

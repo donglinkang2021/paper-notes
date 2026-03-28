@@ -31,7 +31,15 @@ author: Linkdom
 
 - [XLNet: Generalized Autoregressive Pretraining](../knowledge/summary_xlnet.md) — 通过排列语言建模同时获得自回归和自编码预训练的优点
 
+## 现代状态更新与残差机制
+
+- [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](../knowledge/summary_parallelizing_deltanet.md) — 用 chunkwise 并行算法把 DeltaNet 扩展到现代语言建模规模，证明 delta rule 记忆更新比普通线性注意力更擅长 associative recall
+- [Deep Delta Learning](../knowledge/summary_deep_delta_learning.md) — 将恒等残差推广为可学习的 rank-1 几何算子，在层间实现沿特定方向的擦除与写入
+- [Attention Residuals](../knowledge/summary_attention_residuals.md) — 把固定残差累加改成沿深度做 softmax attention，使每层可选择性读取更早层表示
+- [TraceRL：面向扩散语言模型的轨迹感知强化学习框架](../knowledge/summary_tracerl_diffusion_llms.md) — 让 diffusion LM 的后训练显式对齐采样轨迹，用 trajectory-aware RL 优化推理过程而非只看最终输出
+
 ## Related MOCs
 
 - [Neural Memory & Reasoning MOC](<./Neural Memory & Reasoning MOC.md>)
+- [Reinforcement Learning MOC](<./Reinforcement Learning MOC.md>)
 - [Information Theory & Complexity MOC](<./Information Theory & Complexity MOC.md>)

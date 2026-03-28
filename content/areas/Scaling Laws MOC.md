@@ -20,6 +20,7 @@ author: Linkdom
 - [Breaking the Curse of Recursion](../knowledge/summary_breaking_curse_recursion.md) — 累积真实和合成数据可避免模型坍塌，测试误差有有限上界
 - [How to Synthesize without Model Collapse?](../knowledge/summary_synthesize_without_collapse.md) — Token级编辑方法通过保持分布覆盖避免模型坍塌
 - [Superposition Yields Robust Neural Scaling](../knowledge/summary_superposition_yields_robust_neural_scaling.md) — 强 superposition 下表示重叠的几何干扰给出稳健 $L\propto 1/m$（与真实 LLM head 统计一致）
+- [Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](../knowledge/summary_neural_thickets_randopt.md) — 预训练权重邻域随规模进入“thicket”高密度专家解区域，随机权重扰动 + top-$K$ 集成（RandOpt）可与 PPO/GRPO/ES 竞争
 
 ## 合成数据与知识获取效率
 

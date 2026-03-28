@@ -23,7 +23,10 @@ author: Linkdom
 - [RL's Razor: Why Online Reinforcement Learning Forgets Less](../knowledge/summary_rls_razor_forgets_less.md) — 提出用新任务分布上的 forward KL 预测遗忘，并解释 on-policy RL 为何更“保守”从而更不易遗忘
 - [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](../knowledge/summary_retaining_by_doing_on_policy_data.md) — 通过消融论证“on-policy 数据”是 RL 抗遗忘主因，并提出 Iterative-SFT 等近似 on-policy 的省算力替代
 
+- [Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](../knowledge/summary_tracerl_diffusion_llms.md) — 提出 TraceRL，直接奖励 diffusion LM 的采样轨迹，并用 diffusion value model 稳定 full-attention 与 block-attention DLM 的 RL 训练
+
 ## Related MOCs
 
 - [Knowledge Distillation MOC](<./Knowledge Distillation MOC.md>)
 - [Self-Play & Iterative Training MOC](<./Self-Play & Iterative Training MOC.md>)
+- [Sequence Models MOC](<./Sequence Models MOC.md>)

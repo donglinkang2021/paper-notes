@@ -28,8 +28,8 @@ tags: ["paper", "post-training", "continual-learning", "catastrophic-forgetting"
 ## 2. 主要贡献
 1. **大规模实证对比**：跨模型家族（Llama 3、Qwen 2.5）、多任务（IFEval、MMLU、Countdown 等），RL 在达到相当或更高 target performance 时，non-target drop 明显更小。
 2. **KL 视角的解释框架**：
-   - SFT $\leftrightarrow$ forward KL 最小化（mode-covering）
-   - KL-regularized RL $\leftrightarrow$ reverse KL 最小化（mode-seeking）
+   - SFT $\leftrightarrow$ forward KL 最小化（mode-covering）
+   - KL-regularized RL $\leftrightarrow$ reverse KL 最小化（mode-seeking）
 3. **简化混合分布分析（Gaussian mixture）**：解释为何在多模态初始策略下，reverse KL 的 mode-seeking 反而可能更“保留旧模式”。
 4. **消融验证根因是 on-policy 数据**：排除 KL 正则与 advantage 估计的必要性。
 5. **提出可用的近似 on-policy 方案**：Iterative-SFT（每个 epoch 开始生成数据）等即可显著降低遗忘。

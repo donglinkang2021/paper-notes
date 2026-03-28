@@ -31,6 +31,7 @@ author: Linkdom
 ## 数据策展与小模型训练
 
 - [SmolLM2](../knowledge/summary_smollm2.md) — 以数据为中心的多阶段训练策略，构建 FineMath/Stack-Edu 等高质量数据集训练 1.7B SOTA 小模型
+- [AI can Autonomously Evolve Pretraining Data Curation](../knowledge/summary_dataevolve.md) — 将数据策展策略本身做成可进化闭环，为 8 类 academic 语料自动演化 cleaning strategy，构建 Darwin-CC 并在相同训练预算下超过 DCLM/FineWeb-Edu
 
 ## 少量数据激活能力：从对齐到推理
 

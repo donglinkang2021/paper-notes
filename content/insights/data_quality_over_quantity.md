@@ -18,8 +18,8 @@ sources:
   - ../knowledge/summary_synthetic_continued_pretraining.md
   - ../knowledge/summary_lima_less_is_more_alignment.md
   - ../knowledge/summary_limo_less_is_more_reasoning.md
+  - ../knowledge/summary_dataevolve.md
 ---
-
 # 数据质量胜过数据数量：从 Phi 系列到小模型训练的核心范式
 
 Phi 系列论文（Phi-1 到 Phi-4）系统性地证明了一个核心论点：**精心策划的高质量数据可以从根本上改变缩放定律的形态**，使小模型在远低于传统预期的参数量和数据量下达到大模型的性能水平。这一洞察已被 SmolLM2、Magpie 等后续工作反复验证，并与合成数据缩放定律形成深层互补。
@@ -65,6 +65,8 @@ Phi 系列论文（Phi-1 到 Phi-4）系统性地证明了一个核心论点：*
 ### 与合成数据缩放定律的关系
 
 GLAN v1.5 发现的 300B tokens 性能墙是在"固定质量、增加数量"范式下的观察。Phi 系列揭示了另一条路径：**提升数据质量可以在远低于 300B tokens 的数据量下突破性能墙**。这意味着 300B tokens 的性能饱和点可能并非合成数据的固有限制，而是特定质量水平下的数据效率上限。
+
+- [DataEvolve：AI 可以自主进化预训练数据策展策略](../knowledge/summary_dataevolve.md): 新增证据（见该论文总结）
 
 ## Implications
 
